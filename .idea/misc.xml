@@ -4,9 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MADPractical11_20012011027/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
-        <entry key="..\:/MADPractical11_20012011027/app/src/main/res/layout/activity_note_view.xml" value="0.19010416666666666" />
+        <entry key="..\:/MADPractical11_20012011027/app/src/main/res/layout/activity_note_view.xml" value="0.1" />
         <entry key="..\:/MADPractical11_20012011027/app/src/main/res/layout/note_edit_view.xml" value="0.19010416666666666" />
-        <entry key="..\:/MADPractical11_20012011027/app/src/main/res/layout/note_item_view.xml" value="0.19010416666666666" />
+        <entry key="..\:/MADPractical11_20012011027/app/src/main/res/layout/note_item_view.xml" value="0.1" />
       </map>
     </option>
   </component>
